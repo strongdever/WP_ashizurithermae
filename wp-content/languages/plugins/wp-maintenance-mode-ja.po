@@ -1,0 +1,916 @@
+# Translation of Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-30 16:20:59+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - LightStart &#8211; Maintenance Mode, Coming Soon and Landing Page Builder - Stable (latest release)\n"
+
+#: includes/classes/wp-maintenance-mode-admin.php:993
+msgid "WP Maintenance Mode is now LightStart. Enjoy the same features, more templates and new landing pages building compatibility."
+msgstr "WP Maintenance Mode は「LightStart」に生まれ変わりました。同じ機能、以前より増えたテンプレート、そして新しいランディングページ構築の互換性をお楽しみください。"
+
+#: views/settings.php:201
+msgid "You don't have a maintenance page or your Maintenance Page has been deleted. Please select another one from the dropdown below or import a template and a new one will be created."
+msgstr "メンテナンスページが存在しないか、既に削除されています。下部のドロップダウンから別のものを選択するか、または新しくテンプレートをインポートすれば、新しいメンテナンスページが作成されます。"
+
+#. Author URI of the plugin
+msgid "https://themeisle.com/"
+msgstr "https://themeisle.com/"
+
+#. Author of the plugin
+msgid "Themeisle"
+msgstr "Themeisle"
+
+#: views/sidebar.php:36
+msgid "Recommended"
+msgstr "おすすめ"
+
+#: views/maintenance.php:211
+msgctxt "contact form"
+msgid "I've read and agree with the site's privacy policy"
+msgstr "サイトのプライバシーポリシーを読み、同意します"
+
+#: views/maintenance.php:128
+msgctxt "subscribe form"
+msgid "I've read and agree with the site's privacy policy"
+msgstr "サイトのプライバシーポリシーを読み、同意します"
+
+#: views/settings.php:966
+msgctxt "response for message 8 (click on button one)"
+msgid "Visitor's response will be here."
+msgstr "訪問者の反応はこちらにあります。"
+
+#: views/settings.php:949
+msgctxt "response for message 7"
+msgid "Visitor's response will be here."
+msgstr "訪問者の反応はこちらにあります。"
+
+#: views/settings.php:900
+msgctxt "response for message 3"
+msgid "Visitor's response will be here."
+msgstr "訪問者の反応はこちらにあります。"
+
+#: views/settings.php:856
+msgid "Upload Avatar"
+msgstr "アバターをアップロード"
+
+#: views/settings.php:853
+msgctxt "upload avatar button"
+msgid "Upload"
+msgstr "アップロード"
+
+#: views/settings.php:358
+msgid "See available shortcodes"
+msgstr "利用可能なショートコード"
+
+#: views/settings.php:357
+msgid "Hide available shortcodes"
+msgstr "利用可能なショートコードを非表示"
+
+#: includes/classes/wp-maintenance-mode.php:1352
+msgid "Something happened! Please try again later."
+msgstr "問題が発生しました。後でもう一度お試しください。"
+
+#: includes/classes/wp-maintenance-mode.php:748
+msgctxt "<meta> keywords default"
+msgid "Maintenance Mode"
+msgstr "メンテナンスモード"
+
+#: includes/classes/wp-maintenance-mode.php:258
+msgctxt "heading default"
+msgid "Maintenance mode"
+msgstr "メンテナンスモード"
+
+#: includes/classes/wp-maintenance-mode.php:257
+msgctxt "<title> default"
+msgid "Maintenance mode"
+msgstr "メンテナンスモード"
+
+#. translators: privacy policy url
+#: includes/classes/wp-maintenance-mode-admin.php:1209
+msgid "The plugin detected this Privacy page: %s – <button>Use this url</button>"
+msgstr "プラグインはこちらのプライバシーページを検出しました: %s – <button>このURLを使用</button>"
+
+#: views/settings.php:857
+msgid "Choose picture"
+msgstr "写真を選んでください"
+
+#: views/settings.php:475
+msgid "Custom CSS"
+msgstr "カスタム CSS"
+
+#: views/settings.php:469
+msgid "Other"
+msgstr "その他"
+
+#: views/settings.php:430
+msgid "Choose Background"
+msgstr "背景を選択"
+
+#: views/settings.php:429
+msgid "Upload Background"
+msgstr "背景をアップロード"
+
+#: views/settings.php:426
+msgctxt "upload background button"
+msgid "Upload"
+msgstr "アップロード"
+
+#: views/settings.php:388
+msgid "\"Dashboard\" and \"Privacy Policy\" links."
+msgstr "「ダッシュボード」と「プライバシーポリシー」のリンク。"
+
+#: views/settings.php:384
+msgid "Footer links"
+msgstr "フッターリンク"
+
+#. translators: shortcode tag
+#: views/settings.php:366
+msgid "%s - display a login form"
+msgstr "%s - ログインフォームを表示"
+
+#: views/settings.php:479
+msgid "Do not add <style> tags."
+msgstr "<style>タグを追加しないでください。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:203
+msgctxt "image_uploader default title"
+msgid "Upload Image"
+msgstr "画像をアップロード"
+
+#: views/settings.php:1039
+msgid "REMEMBER: In order to make the privacy policy page accessible you need to add it in General -> Exclude."
+msgstr "注意: プライバシーポリシーページにアクセスできるようにするには、[一般]-> [除外]で追加する必要があります。"
+
+#. translators: Google Analytics documentation url
+#: views/settings.php:788
+msgid "Read about IP anonymization on <a href=\"%s\" rel=\"noreferrer\" target=\"_blank\">Google Analytics</a> docs. It is always enabled on Google Analytics 4."
+msgstr "<a href=\"%s\" rel=\"noreferrer\" target=\"_blank\">Google Analytics</a> のドキュメント IP の匿名化についてお読みください。 Google Analytics 4 では常に有効になっています。"
+
+#: views/settings.php:620
+msgid "You have to use full URLs. For example: if your Twitter username is <code>WordPress</code>, the URL should be <code>https://twitter.com/WordPress</code>."
+msgstr ""
+"完全な URL を使用する必要があります。例: Twitter のユーザー名が \n"
+" <code>WordPress</code> の場合、URL は <code>https://twitter.com/WordPress</code>  となります。"
+
+#. translators: 1: shortcode tag, 2: list of compatible services, 3: shortcode
+#. example
+#: views/settings.php:372
+msgid "%1$s - responsive video embed. Compatible with %2$s. Example: %3$s"
+msgstr "%1$s - レスポンシブな動画の埋め込み。%2$s と互換性があります。例: %3$s"
+
+#: includes/classes/wp-maintenance-mode-admin.php:204
+msgctxt "image_uploader default button_text"
+msgid "Choose Image"
+msgstr "画像を選択"
+
+#: views/settings.php:824
+msgid "If you want to see the list of subscribers, go to Modules &raquo; Subscribe &raquo; Export as CSV."
+msgstr "購読者のリストを表示する場合は、モジュール &raquo; 購読 &raquo; CSVとしてエクスポートに移動します。"
+
+#: includes/classes/wp-maintenance-mode.php:325
+msgid "Privacy Policy"
+msgstr "プライバシーポリシー"
+
+#: includes/classes/wp-maintenance-mode.php:306
+msgid "What is your name?"
+msgstr "あなたのお名前は ?"
+
+#: views/settings.php:847
+msgid "Upload avatar"
+msgstr "アバターをアップロード"
+
+#: views/settings.php:842
+msgid "This name will appear when the bot is typing."
+msgstr "この名前は、ボットが入力しているときに表示されます。"
+
+#: includes/classes/wp-maintenance-mode.php:318
+msgid "Tell me more"
+msgstr "さらに詳しく教えてください"
+
+#: views/settings.php:896 views/settings.php:938 views/settings.php:962
+msgid "Response"
+msgstr "返答"
+
+#: includes/classes/wp-maintenance-mode.php:799
+msgid "Please type in your name."
+msgstr "名前を入力してください。"
+
+#: includes/classes/wp-maintenance-mode.php:800
+msgid "Please type in a valid email address."
+msgstr "有効なメールアドレスを入力してください。"
+
+#: views/settings.php:58
+msgid "Manage Bot"
+msgstr "ボットを管理"
+
+#: views/settings.php:1025
+msgid "Link name"
+msgstr "リンク名"
+
+#: includes/classes/wp-maintenance-mode.php:309
+msgid "I know, you are very excited to see it, but we need a few days to finish it."
+msgstr "早く見てみたい気持ちでいっぱいかと思いますが、完了までに数日かかります。"
+
+#: includes/classes/wp-maintenance-mode.php:305
+msgid "I have just a few questions."
+msgstr "いくつか質問があります。"
+
+#: includes/classes/wp-maintenance-mode.php:314
+msgid "Have a great day!"
+msgstr "すてきな一日を !"
+
+#: includes/classes/wp-maintenance-mode.php:313
+msgid "Got it! Thank you and see you soon here!"
+msgstr "やった ! ありがとう、またここでお会いしましょう !"
+
+#: views/settings.php:66
+msgid "GDPR"
+msgstr "GDPR"
+
+#: views/settings.php:776
+msgid "Enable IP anonymization?"
+msgstr "IP アドレスをマスキングしますか ?"
+
+#: views/settings.php:901 views/settings.php:967
+msgid "Edit the placeholder's text"
+msgstr "プレースホルダーのテキストを編集する"
+
+#: views/settings.php:866
+msgid "Customize Messages"
+msgstr "カスタムメッセージ"
+
+#: views/settings.php:1051
+msgid "Choose how the link will open."
+msgstr "リンクを開く方法を選択します。"
+
+#: views/settings.php:838
+msgid "Bot Name"
+msgstr "ボットの名前"
+
+#: views/settings.php:860
+msgid "A 512 x 512 px will work just fine."
+msgstr "512 x 512pxで問題なく動作します。"
+
+#. translators: number of subscribers
+#: includes/classes/wp-maintenance-mode-admin.php:311
+msgctxt "ajax response"
+msgid "You have %d subscriber"
+msgid_plural "You have %d subscribers"
+msgstr[0] "%s人の購読者がいます"
+
+#: views/settings.php:872
+msgid "Message 1"
+msgstr "メッセージ1"
+
+#: includes/classes/wp-maintenance-mode.php:317
+#: includes/classes/wp-maintenance-mode.php:802
+msgid "Type your name here…"
+msgstr "ここにあなたの名前を入力してください…"
+
+#: includes/classes/wp-maintenance-mode.php:320
+#: includes/classes/wp-maintenance-mode.php:803
+msgid "Type your email here…"
+msgstr "ここにメールアドレスを入力してください…"
+
+#: views/settings.php:1065
+msgid "Subscribe form 'tail'"
+msgstr "購読フォーム 'tail'"
+
+#: views/settings.php:1056
+msgid "Contact form 'tail'"
+msgstr "コンタクトフォーム 'tail'"
+
+#: views/settings.php:1044
+msgid "P. Policy link target"
+msgstr "P. ポリシーリンクターゲット"
+
+#: views/settings.php:1034
+msgid "P. Policy page link"
+msgstr "P. ポリシーページリンク"
+
+#: views/settings.php:1029
+msgid "Label the link that will be shown on frontend footer"
+msgstr "フロントエンドフッターに表示されるリンクにラベルを付ける"
+
+#: views/settings.php:1060 views/settings.php:1069
+msgid "This will be shown together with the acceptance checkbox below the form"
+msgstr "こちらは、フォームの下にある承認チェックボックスと一緒に表示されます"
+
+#: views/settings.php:972
+msgid "(click on button two)"
+msgstr "(ボタン2をクリック)"
+
+#: views/settings.php:954 views/settings.php:980 views/settings.php:988
+msgid "(click on button one)"
+msgstr "(ボタン1をクリック)"
+
+#: views/settings.php:954 views/settings.php:972
+msgid "Message 8"
+msgstr "メッセージ8"
+
+#: views/settings.php:988
+msgid "Message 10"
+msgstr "メッセージ10"
+
+#: views/settings.php:980
+msgid "Message 9"
+msgstr "メッセージ9"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1205
+msgid "Your WordPress version supports Privacy settings but you haven't set any privacy policy page yet. Go to Settings ➡ Privacy to set one."
+msgstr "WordPress のバージョンはプライバシー設定をサポートしていますが、プライバシーポリシーページはまだ設定されていません。 [設定]➡[プライバシー]に移動して設定。"
+
+#: includes/classes/wp-maintenance-mode.php:319
+msgid "Boring"
+msgstr "退屈"
+
+#: includes/classes/wp-maintenance-mode.php:311
+msgid "Cool! Please leave your email here and I will send you a message when it's ready."
+msgstr "いいね! ここにメールを残してください。準備ができたらメッセージをお送りします。"
+
+#: includes/classes/wp-maintenance-mode.php:310
+msgid "Would you like to be first to see it?"
+msgstr "最初に見たいですか ?"
+
+#: includes/classes/wp-maintenance-mode.php:308
+msgid "How you can see, our website will be launched very soon."
+msgstr "ご覧のとおり、まもなくサイトが開設されます。"
+
+#: views/settings.php:930
+msgid "Message 7"
+msgstr "メッセージ7"
+
+#: views/settings.php:922
+msgid "Message 6"
+msgstr "メッセージ6"
+
+#: views/settings.php:914
+msgid "Message 5"
+msgstr "メッセージ5"
+
+#: views/settings.php:906
+msgid "Message 4"
+msgstr "メッセージ4"
+
+#: views/settings.php:888
+msgid "Message 3"
+msgstr "メッセージ3"
+
+#: views/settings.php:880
+msgid "Message 2"
+msgstr "メッセージ2"
+
+#: views/settings.php:943
+msgid "Edit button one"
+msgstr "ボタン1を編集"
+
+#: views/settings.php:947
+msgid "Edit button two"
+msgstr "ボタン2を編集"
+
+#. translators: number of subscribers
+#: views/settings.php:575 views/settings.php:745
+msgctxt "settings page"
+msgid "You have %d subscriber"
+msgid_plural "You have %d subscribers"
+msgstr[0] "%d の購読者がいます"
+
+#: views/settings.php:377
+msgid "This text will not be shown when the bot feature is enabled."
+msgstr "ボットが有効になっている場合、このテキストは表示されません。"
+
+#: views/settings.php:823
+msgid "It is also ok if you don't fill in all the conversation steps if you don't need to."
+msgstr "必要がなければ、すべての会話ステップを入力しなくても大丈夫です。"
+
+#: views/settings.php:822
+msgid "You may also want to use these wildcards: {bot_name} and {visitor_name} to make the conversation even more realistic."
+msgstr "{bot_name}と{visitor_name}のワイルドカードを使用して、会話をさらに現実的にすることもできます。"
+
+#: views/settings.php:821
+msgid "Setup the conversation steps to capture more subscribers with this friendly way of asking email addresses."
+msgstr "メールアドレスを尋ねるフレンドリーな方法で、より多くの購読者を得るための会話手順を設定します。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1215
+msgid "Your Privacy page is pointing to a different URL in WordPress settings. If that's correct ignore this message, otherwise UPDATE VALUE TO NEW URL"
+msgstr "プライバシーページが WordPress 設定ではない URL を指しています。正しい場合はこのメッセージを無視してください。正しくない場合は新しい URL に更新してください"
+
+#: includes/classes/wp-maintenance-mode-admin.php:941
+msgid "WPMM: The file data.js could not be written, the bot will not work correctly."
+msgstr "WPMM: ファイル data.js を書き込めませんでした、ボットが正しく機能しません。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1218
+msgid "No privacy features detected for your WordPress version. Update WordPress to get this field automatically filled in or type in the URL that points to your privacy policy page."
+msgstr "WordPress のバージョンでプライバシー機能が検出されませんでした。WordPress を更新して、このフィールドを自動的に入力するか、プライバシーポリシーページの URL を入力してください。"
+
+#: includes/classes/wp-maintenance-mode.php:328
+msgid "This form collects your name and email so that we can reach you back. Check out our <a href=\"#\">Privacy Policy</a> page to fully understand how we protect and manage your submitted data."
+msgstr "このフォームはあなたの名前とメールアドレスを収集し、私たちがあなたに連絡できるようにします。送信されたデータを保護および管理する方法を完全に理解するには、<a href=\"#\">プライバシーポリシー</a>ページを確認してください。"
+
+#: includes/classes/wp-maintenance-mode.php:329
+msgid "This form collects your email so that we can add you to our newsletter list. Check out our <a href=\"#\">Privacy Policy</a> page to fully understand how we protect and manage your submitted data."
+msgstr "このフォームはあなたのメールアドレスを収集し、ニュースレターリストに追加できるようにします。送信されたデータを保護および管理する方法を完全に理解するには、<a href=\"#\">プライバシーポリシー</a>ページを確認してください。"
+
+#: views/settings.php:1011
+msgid "Here we added some generic texts that you may want to review, change or remove."
+msgstr "一般的なテキストを追加しました。自由に変更、削除してください。"
+
+#: views/settings.php:1010
+msgid "To make the plugin GDPR compliant, fill in the details and enable this section."
+msgstr "プラグインを GDPR 準拠にするには、詳細を入力し、このセクションを有効化してください。"
+
+#: includes/classes/wp-maintenance-mode.php:312
+msgid "Sad to hear that, {visitor_name} :( See you next time…"
+msgstr "それは残念です。{visitor_name} さん、またお会いできますように。"
+
+#: includes/classes/wp-maintenance-mode.php:304
+msgid "Hey! My name is {bot_name}, I'm the owner of this website and I'd like to be your assistant here."
+msgstr "私の名前は {bot_name} で、このサイトの所有者です。ここであなたのアシスタントになりたいと思っています。"
+
+#: includes/classes/wp-maintenance-mode.php:307
+msgid "Nice to meet you here, {visitor_name}!"
+msgstr "はじめまして、{visitor_name}!"
+
+#: includes/classes/wp-maintenance-mode-admin.php:258
+#: includes/classes/wp-maintenance-mode-admin.php:305
+#: includes/classes/wp-maintenance-mode-admin.php:395
+#: includes/classes/wp-maintenance-mode-admin.php:628
+#: includes/classes/wp-maintenance-mode-admin.php:660
+#: includes/classes/wp-maintenance-mode-admin.php:694
+#: includes/classes/wp-maintenance-mode-admin.php:748
+#: includes/classes/wp-maintenance-mode-admin.php:768
+#: includes/classes/wp-maintenance-mode-admin.php:814
+#: includes/classes/wp-maintenance-mode-admin.php:845
+#: includes/classes/wp-maintenance-mode-admin.php:871
+#: includes/classes/wp-maintenance-mode-admin.php:1089
+#: includes/classes/wp-maintenance-mode.php:1292
+#: includes/classes/wp-maintenance-mode.php:1320
+msgid "Security check."
+msgstr "セキュリティチェック"
+
+#: includes/classes/wp-maintenance-mode-admin.php:253
+#: includes/classes/wp-maintenance-mode-admin.php:300
+#: includes/classes/wp-maintenance-mode-admin.php:385
+#: includes/classes/wp-maintenance-mode-admin.php:618
+#: includes/classes/wp-maintenance-mode-admin.php:655
+#: includes/classes/wp-maintenance-mode-admin.php:689
+#: includes/classes/wp-maintenance-mode-admin.php:743
+#: includes/classes/wp-maintenance-mode-admin.php:763
+#: includes/classes/wp-maintenance-mode-admin.php:809
+#: includes/classes/wp-maintenance-mode-admin.php:840
+#: includes/classes/wp-maintenance-mode-admin.php:866
+#: includes/classes/wp-maintenance-mode-admin.php:1084
+msgid "The nonce field must not be empty."
+msgstr "nonce フィールドは空であってはいけません。"
+
+#: views/settings.php:803
+msgid "Allowed formats: UA-XXXXXXXX, UA-XXXXXXXX-XXXX, G-XXXXXXXX. Eg: UA-12345678-1 is valid"
+msgstr "有効なフォーマット: UA-XXXXXXXX, UA-XXXXXXXX-XXXX, G-XXXXXXXX。例: UA-12345678-1 は有効です"
+
+#. translators: link to plugin reviews page on wp.org
+#: includes/classes/wp-maintenance-mode-admin.php:1137
+msgid "If you like <strong>Lightstart</strong> please leave us a %s rating. A huge thank you from WP Maintenance Mode makers in advance!"
+msgstr "よければ <strong>WP Maintenance Mode</strong> に %s の評価を残してください。WP Maintenance Modeの作者から前もって感謝します。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1081
+msgid "Notice key cannot be empty."
+msgstr "通知キーは空にすることはできません。"
+
+#. translators: name of the blog
+#: views/contact.php:54
+msgid "You have been contacted via %s."
+msgstr "%s様からのメールを受け付けました。"
+
+#: views/settings.php:581 views/settings.php:751
+msgid "Empty subscribers list"
+msgstr "購読者リストが空です"
+
+#: views/settings.php:101 views/settings.php:114
+msgid "Select role(s)"
+msgstr "権限を選択"
+
+#: views/maintenance.php:126 views/maintenance.php:190
+#: views/maintenance.php:193 views/maintenance.php:201
+#: views/maintenance.php:209
+msgid "This field is required."
+msgstr "この項目は必須です。"
+
+#: views/contact.php:103
+msgid "Content:"
+msgstr "コンテンツ:"
+
+#: views/contact.php:76
+msgid "Name:"
+msgstr "名前:"
+
+#: includes/classes/wp-maintenance-mode-admin.php:401
+#: includes/classes/wp-maintenance-mode-admin.php:634
+msgid "The tab slug must exist."
+msgstr "タブスラッグ名はすでに存在しています。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:390
+#: includes/classes/wp-maintenance-mode-admin.php:623
+msgid "The tab slug must not be empty."
+msgstr "タブスラッグ名は空にすることはできません。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:249
+#: includes/classes/wp-maintenance-mode-admin.php:296
+#: includes/classes/wp-maintenance-mode-admin.php:380
+#: includes/classes/wp-maintenance-mode-admin.php:613
+msgid "You do not have access to this resource."
+msgstr "このリソースへのアクセス権がありません。"
+
+#: views/contact.php:88
+msgid "Email:"
+msgstr "メールアドレス:"
+
+#: views/settings.php:119
+msgid "Which user role is allowed to access the frontend of the website? Administrators will always have access."
+msgstr "この Web サイトのフロントエンドには、どのユーザー権限グループがアクセスできますか ? 管理者は常にアクセス権を持ちます。"
+
+#: views/settings.php:106
+msgid "Which user role is allowed to access the backend of the website? Administrators will always have access."
+msgstr "この Web サイトのバックエンドにはどのユーザー権限グループがアクセスできますか ? 管理者は常にアクセス権を持ちます。"
+
+#: views/settings.php:140
+msgid "If you want to redirect a user (with no access to Dashboard/Backend) to a URL (different from WordPress Dashboard URL) after login, then define a URL (incl. https://)"
+msgstr "ログインしたユーザーを、ダッシュボードやバックエンドにアクセスさせずに、URL (WordPress ダッシュボードではない URL) にリダイレクトしたい場合は、URL (https:// を含む) を定義します"
+
+#. Description of the plugin
+msgid "Adds a splash page to your site that lets visitors know your site is down for maintenance. It's perfect for a coming soon or landing page."
+msgstr "サイトにスプラッシュページを追加することで訪問者にあなたのサイトがメンテナンスでダウン中だと知らせることができます。カミングスーンページやランディングページにうってつけです。"
+
+#: includes/classes/wp-maintenance-mode-admin.php:974
+msgid "Settings"
+msgstr "設定"
+
+#: views/sidebar.php:24
+msgid "Twitter"
+msgstr "Twitter"
+
+#: includes/classes/wp-maintenance-mode-admin.php:1263
+msgid "Settings saved."
+msgstr "設定を保存しました。"
+
+#: views/settings.php:136
+msgid "Redirection"
+msgstr "リディレクション"
+
+#: views/settings.php:51
+msgid "Modules"
+msgstr "モジュール"
+
+#: views/settings.php:533
+msgid "Color"
+msgstr "色"
+
+#: views/settings.php:337 views/settings.php:559
+msgid "Text"
+msgstr "テキスト"
+
+#: views/maintenance.php:239
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: views/settings.php:80 views/settings.php:832 views/settings.php:1019
+msgid "Activated"
+msgstr "有効化"
+
+#: views/settings.php:90 views/settings.php:161 views/settings.php:174
+#: views/settings.php:508 views/settings.php:552 views/settings.php:599
+#: views/settings.php:703 views/settings.php:769 views/settings.php:780
+msgid "Yes"
+msgstr "はい"
+
+#: views/settings.php:91 views/settings.php:162 views/settings.php:175
+#: views/settings.php:509 views/settings.php:553 views/settings.php:600
+#: views/settings.php:704 views/settings.php:770 views/settings.php:781
+msgid "No"
+msgstr "いいえ"
+
+#: views/settings.php:394
+msgid "Background"
+msgstr "背景"
+
+#: views/sidebar.php:23
+msgid "Website"
+msgstr "ウェブサイト"
+
+#: views/settings.php:515
+msgid "Start date"
+msgstr "開始日"
+
+#: views/settings.php:38
+msgid "General"
+msgstr "一般"
+
+#: views/sidebar.php:22
+msgid "Author"
+msgstr "登録者"
+
+#: views/settings.php:759
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: views/settings.php:568 views/settings.php:738
+msgid "Stats"
+msgstr "統計情報"
+
+#: views/loginform.php:17
+msgid "Login"
+msgstr "ログイン"
+
+#: views/settings.php:528
+msgid "Minutes"
+msgstr "分"
+
+#: views/settings.php:526
+msgid "Days"
+msgstr "日"
+
+#: includes/classes/wp-maintenance-mode.php:1288
+#: includes/classes/wp-maintenance-mode.php:1323 views/maintenance.php:193
+msgid "Please enter a valid email address."
+msgstr "有効なメールアドレスを入力してください。"
+
+#: views/network-settings.php:43 views/settings.php:184 views/settings.php:485
+#: views/settings.php:810 views/settings.php:998 views/settings.php:1076
+msgid "Save settings"
+msgstr "設定を保存"
+
+#: views/settings.php:185 views/settings.php:486 views/settings.php:811
+#: views/settings.php:999 views/settings.php:1077
+msgid "Reset settings"
+msgstr "設定を初期化"
+
+#: views/settings.php:400
+msgid "Choose type"
+msgstr "背景の種類を選択"
+
+#: views/settings.php:799
+msgid "Tracking code"
+msgstr "トラッキングコード"
+
+#: views/settings.php:710
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: views/settings.php:412
+msgid "Choose color"
+msgstr "色を選択"
+
+#: views/settings.php:438
+msgid "Choose background"
+msgstr "背景を選択"
+
+#: views/settings.php:718
+msgid "Effects"
+msgstr "効果"
+
+#: views/settings.php:589
+msgid "Social Networks"
+msgstr "ソーシャルネットワーク"
+
+#: views/settings.php:498
+msgid "Countdown"
+msgstr "カウントダウン"
+
+#: includes/classes/wp-maintenance-mode.php:734
+msgid "Maintenance Mode"
+msgstr "メンテナンスモード"
+
+#: views/sidebar.php:12
+msgid "Plugin Info"
+msgstr "プラグイン情報"
+
+#: views/settings.php:433
+msgid "Backgrounds should have 1920x1280 px size."
+msgstr "背景画像のサイズは 1920x1280 px である必要があります。"
+
+#: views/settings.php:606
+msgid "Links target?"
+msgstr "リンクの開き方"
+
+#: includes/classes/wp-maintenance-mode.php:804 views/maintenance.php:220
+msgid "Send"
+msgstr "送信"
+
+#: views/maintenance.php:227
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+#: views/settings.php:45
+msgid "Design"
+msgstr "デザイン"
+
+#: views/maintenance.php:201
+msgid "Your message"
+msgstr "メッセージ"
+
+#: views/settings.php:328
+msgid "Heading"
+msgstr "見出し"
+
+#: views/settings.php:404
+msgid "Custom color"
+msgstr "カスタムカラー"
+
+#: views/settings.php:420
+msgid "Upload background"
+msgstr "背景画像をアップロード"
+
+#: views/settings.php:157
+msgid "Notice"
+msgstr "通知"
+
+#: views/settings.php:405
+msgid "Uploaded background"
+msgstr "アップロードされた背景画像"
+
+#: includes/classes/wp-maintenance-mode.php:1316
+msgid "All fields required."
+msgstr "すべての項目に入力してください。"
+
+#: views/maintenance.php:121 views/settings.php:542 views/settings.php:732
+msgid "Subscribe"
+msgstr "登録"
+
+#: views/maintenance.php:119
+msgid "your e-mail..."
+msgstr "メールアドレス"
+
+#: views/maintenance.php:193
+msgid "E-mail"
+msgstr "メールアドレス"
+
+#: views/settings.php:81 views/settings.php:833 views/settings.php:1020
+msgid "Deactivated"
+msgstr "無効化"
+
+#: views/sidebar.php:25
+msgid "GitHub"
+msgstr "GitHub"
+
+#: views/settings.php:613
+msgid "Choose how the links will open."
+msgstr "リンクを開く方法を選択してください。"
+
+#: views/settings.php:765
+msgid "Use Google Analytics?"
+msgstr "Google アナリティクスを使用しますか ?"
+
+#: views/settings.php:580 views/settings.php:750
+msgid "Export as CSV"
+msgstr "CSV として出力"
+
+#: views/settings.php:595
+msgid "Show social networks?"
+msgstr "ソーシャルネットワークを表示しますか ?"
+
+#: views/settings.php:504
+msgid "Show countdown?"
+msgstr "カウントダウンを表示しますか ?"
+
+#: views/settings.php:723
+msgid "Zoom - Zoomed"
+msgstr "ズーム - ズーム済み"
+
+#: views/settings.php:610 views/settings.php:1048
+msgid "New page"
+msgstr "新規ページ"
+
+#: views/settings.php:611 views/settings.php:1049
+msgid "Same page"
+msgstr "同じページ"
+
+#: views/settings.php:320
+msgid "Title (HTML tag)"
+msgstr "タイトル (HTML タグ)"
+
+#: views/settings.php:523
+msgid "Countdown (remaining time)"
+msgstr "カウントダウン (残り時間)"
+
+#: views/settings.php:722
+msgid "Move top - Move bottom"
+msgstr "上部へ移動/下部へ移動"
+
+#: views/settings.php:406
+msgid "Predefined background"
+msgstr "既定の背景画像"
+
+#: includes/classes/wp-maintenance-mode.php:280
+msgid "Notify me when it's ready"
+msgstr "準備ができたら通知を受け取る"
+
+#: views/settings.php:124
+msgid "Robots Meta Tag"
+msgstr "Robots Meta タグ"
+
+#: views/settings.php:86
+msgid "Bypass for Search Bots"
+msgstr "検索エンジンボットをバイパスする"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode-admin.php:1008
+msgid "The Maintenance Mode is <strong>active</strong>. Please don't forget to <a href=\"%s\">deactivate</a> as soon as you are done."
+msgstr "メンテナンスモードが<strong>有効化</strong>されています。作業が終わったらすぐに<a href=\"%s\">無効化</a>するのを忘れないでください。"
+
+#: views/settings.php:699
+msgid "Show contact?"
+msgstr "問い合わせを表示しますか ?"
+
+#: includes/classes/wp-maintenance-mode.php:1355
+msgid "Your email was sent to the website administrator. Thanks!"
+msgstr "メールをサイトの管理者に送信しました。ありがとうございます。"
+
+#: views/settings.php:724
+msgid "Fold - Unfold"
+msgstr "折りたたむ - 開く"
+
+#: views/settings.php:548
+msgid "Show subscribe?"
+msgstr "購読を表示しますか?"
+
+#: views/settings.php:177
+msgid "Do you want to add a link to the dashboard on your maintenance mode page?"
+msgstr "メンテナンスモードのページにダッシュボードへのリンクを追加しますか?"
+
+#: includes/classes/wp-maintenance-mode.php:260
+msgid "<p>Sorry for the inconvenience.<br />Our website is currently undergoing scheduled maintenance.<br />Thank you for your understanding.</p>"
+msgstr "<p>ご不便おかけしております。<br />現在、定期メンテナンス中です。<br />ご理解いただきまして、ありがとうございます。</p>"
+
+#: includes/classes/wp-maintenance-mode.php:1330
+msgid "Message via contact"
+msgstr "お問い合わせからメッセージを送ってください。"
+
+#: includes/classes/wp-maintenance-mode.php:1297
+msgid "You successfully subscribed. Thanks!"
+msgstr "申し込みが成功しました。ありがとうございます！"
+
+#. translators: plugin settings url
+#: includes/classes/wp-maintenance-mode.php:462
+msgid "WP Maintenance Mode plugin was relaunched and you MUST revise <a href=\"%s\">settings</a>."
+msgstr "WP Maintenance Mode プラグインを更新したので、<a href=\"%s\">設定</a>を変更する「必要」があります。"
+
+#: views/settings.php:93
+msgid "Allow Search Bots to bypass maintenance mode?"
+msgstr "メンテナンスモード中、検索 Bot をバイパスしますか？"
+
+#: views/settings.php:98
+msgid "Backend Role"
+msgstr "管理画面にアクセス可能な権限"
+
+#: views/settings.php:111
+msgid "Frontend Role"
+msgstr "フロントエンドにアクセス可能な権限"
+
+#: views/settings.php:131
+msgid "The robots meta tag lets you use a granular, page-specific approach to control how an individual page should be indexed and served to users in search results."
+msgstr "robots メタタグを使うと、粒度に応じたページごとのアプローチによって個別のページがどのようにインデックスされ、検索結果としてユーザーに提供されるのかをコントロールできます。"
+
+#: views/settings.php:145
+msgid "Exclude"
+msgstr "除外"
+
+#: views/settings.php:164
+msgid "Do you want to see notices when maintenance mode is activated?"
+msgstr "メンテナンスモードが有効のときに但し書きを表示しますか？"
+
+#: views/settings.php:170
+msgid "Dashboard link"
+msgstr "ダッシュボードリンク"
+
+#: views/settings.php:693
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#: views/settings.php:527
+msgid "Hours"
+msgstr "営業時間"
+
+#: views/maintenance.php:190 views/sidebar.php:16
+msgid "Name"
+msgstr "名前"
+
+#: views/network-settings.php:33 views/settings.php:77 views/settings.php:829
+#: views/settings.php:1016
+msgid "Status"
+msgstr "ステータス"
+
+#. translators: free photos url
+#: views/settings.php:445
+msgid "* source <a href=\"%s\" target=\"_blank\">Free Photos</a>"
+msgstr "* ソース <a href=\"%s\" target=\"_blank\">無料フォト</a>"
+
+#: includes/classes/wp-maintenance-mode-admin.php:714
+#: includes/classes/wp-maintenance-mode.php:224
+msgid "Maintenance Page"
+msgstr "メンテナンスページ"
