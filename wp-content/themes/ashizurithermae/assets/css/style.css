@@ -3629,12 +3629,12 @@ body.mobile-nav-active #mobile-nav {
 
 .top-concept {
   position: relative;
-  padding: 21.0rem 0 21.0rem;
+  padding: 21.0rem 0 20rem;
 }
 
 @media print, screen and (min-width: 769px) {
   .top-concept {
-    min-height: 88.0rem;
+    min-height: 83.0rem;
   }
 }
 
@@ -3837,12 +3837,12 @@ body.mobile-nav-active #mobile-nav {
 
 .top-plan {
   position: relative;
-  padding: 8.0rem 0;
+  padding: 0 0 8rem 0;
 }
 
 @media only screen and (max-width: 768px) {
   .top-plan {
-    padding: 12.0rem 0 8.0rem;
+    padding: 0 0 8.0rem;
   }
   .top-plan .content-in {
     max-width: 100%;
